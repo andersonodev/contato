@@ -57,9 +57,7 @@ const TAB_DATA = [
 
 <div className="grid grid-cols-3 gap-0 m-0 ">
   
-    <div>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" />
-    </div>
+   
     <div>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="" />
     </div>
