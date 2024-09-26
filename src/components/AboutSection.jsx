@@ -113,7 +113,7 @@ const TAB_DATA = [
 </div>
 </div>
 
-        <div className="">
+        {/* <div className="">
         <div className=" ">
           <h2 className="text-xl font-bold m-0 mb-2 mt-0 mr-8 ml-0 mx-0 my-0">
           Databases
@@ -130,15 +130,13 @@ const TAB_DATA = [
            </li>
            <li className="flex items-center mb-2"> 
             <img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E" alt="" />
-
-            {/* adicionar postman futuramente */}
            </li>
           
           </ul>
           </div>
-        </div>
+        </div> */}
 
-        <div className="">
+        {/* <div className="">
         <div className=" ">
           <h2 className="text-xl font-bold m-0 mb-2 mt-0 mr-8 ml-0 mx-0 my-0">
           Cloud Computing
@@ -156,7 +154,7 @@ const TAB_DATA = [
       
           </ul>
           </div>
-        </div>
+        </div> */}
 
 
 
