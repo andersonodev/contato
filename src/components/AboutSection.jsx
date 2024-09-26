@@ -27,23 +27,12 @@ const TAB_DATA = [
         <img src="(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="" />
     </div>
     <div>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="" />
-    </div>
-    <div>
         <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="" />
     </div>
     <div>
-        <img src="https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000" alt="" />
+        <img src="ttps://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="" />
     </div>
-    <div>
-        <img src="https://camo.githubusercontent.com/376adc79df22c1948702915e328829cc6898f02e5d77a7fefe75c512649a2f16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d3030393544353f267374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465" alt="" />
-    </div>
-    <div>
-        <img src="https://camo.githubusercontent.com/b0648ef7a9b6980ea27c1caaeb06d5c8503dbb4f9b4d9d7ca1df60a5edc14340/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" alt="" />
-    </div>
-    <div>
-        <img src="https://camo.githubusercontent.com d782685f94e3a4ce4c3fc60f6d609f2c21fc10f021813b723d75d9af4bac6de1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626173682532307363726970742d303130313f7374796c653d666c6174266c6f676f3d676e7562617368266c6f676f436f6c6f723d253233464646464646266c6162656c436f6c6f723d253233303030303030" alt="" />
-    </div>
+ 
 </div>
 </div>
      
@@ -78,22 +67,22 @@ const TAB_DATA = [
 <div className="grid grid-cols-3 ">
   
     <div>
-        <img src="https://camo.githubusercontent.com/6c3957842901e5baa389f3bb8758c8966683333b28493013062fcab5fab645e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="" />
     </div>
     <div>
-        <img src="https://camo.githubusercontent.com/c30a17d34fecc874999240e59c1adf56ca0eeebb7d6a5bc0fddc0e7c8592869d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="" />
     </div>
     <div>
-        <img src="https://camo.githubusercontent.com/3b41d3ae73bc489dbb2be32e772cc814e3a76e372027056c72e5b970c04684a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="" />
+        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="" />
     </div>
     <div>
-        <img src="https://camo.githubusercontent.com/2abe53f4176fd7b9639f1c316e77574575c1c99c660e03fefa08299045988ba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" alt="" />
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="" />
     </div>
     <div>
-        <img src="https://camo.githubusercontent.com/d9e3534fab2bbe9cc4adaa0927695d3d17ff048c0e24a69f008d6e0876abb825/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d626f6f73747261702d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6162656c436f6c6f723d304431313137" alt="" />
+        <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" alt="" />
     </div>
     <div>
-        <img src="https://camo.githubusercontent.com/6d5704fb73e1524be26bec29f0065acec83252fe818a4bd58dfbf09f23db8a6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2d2532333039324532302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465" alt="" />
+        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="" />
     </div>
     
 </div>
@@ -105,22 +94,20 @@ const TAB_DATA = [
 <h2>Ferramentas</h2>
 </div>
 
+
 <div className="grid grid-cols-3 ">
   
     <div>
-        <img src="https://camo.githubusercontent.com/0d58facab1be74748c39244ff3d990ae8ddd765af40263ed006219154ba90649/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="" />
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="" />
     </div>
     <div>
-        <img src="https://camo.githubusercontent.com/7b1b0bcf013f27d9700d574b84824ce2238930c33ae34767df76c5929c306f5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="" />
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="" />
     </div>
     <div>
-        <img src="https://camo.githubusercontent.com/997bb900c37784cf2b8f742d57c35467a8dbf51473cdafe6efefcde452cfd491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5673636f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="" />
     </div>
     <div>
-        <img src="https://camo.githubusercontent.com/1f1dc3a74857c732fa528d358206f9c86518563223858582da9949bbae3efc6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3639363936393f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d6669676d61" alt="" />
-    </div>
-    <div>
-        <img src="https://camo.githubusercontent.com/fd0fa98fcbccb832797511476264680bdd181783dcdcd4223a79a8e236e1cbaa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" alt="" />
+        <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma" alt="" />
     </div>
     
 </div>
@@ -133,16 +120,18 @@ const TAB_DATA = [
           </h2>
           <ul className="list-disc pl-4 mb-4 ">
            <li className="flex items-center mb-2"> 
-            <img src="https://camo.githubusercontent.com/c1c08eb7625abe1a813e5ad05a94891aa127a37e0ce126b59ecda28233effdac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="" />
+            <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="" />
            </li>
            <li className="flex items-center mb-2"> 
-            <img src="https://camo.githubusercontent.com/7e95531437f8c91626ae46cb69240160dfde5c39c1119c550cd174ba8a19e712/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="" />
+            <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="" />
            </li>
            <li className="flex items-center mb-2"> 
-            <img src="https://camo.githubusercontent.com/d95ad87c214e2374f3e38f16fb449a605a2163e2a71d4abd4c2c30ba4a985fb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c" alt="" />
+            <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresq" alt="" />
            </li>
            <li className="flex items-center mb-2"> 
-            <img src="https://camo.githubusercontent.com/a04742aeb388be6e3240199008de7fab8db34d612af03dc8becfbbae7f3a3ec6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d303734303545" alt="" />
+            <img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E" alt="" />
+
+            {/* adicionar postman futuramente */}
            </li>
           
           </ul>
@@ -156,13 +145,13 @@ const TAB_DATA = [
           </h2>
           <ul className="list-disc pl-4 mb-4 ">
            <li className="flex items-center mb-2"> 
-            <img src="https://camo.githubusercontent.com/b9ff564d8c311812747f1aacea54cf703d850756f9179f9eff6899da20a701a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" alt="" />
+            <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="" />
            </li>
            <li className="flex items-center mb-2"> 
-            <img src="https://camo.githubusercontent.com/494048f5340c80e80581dc89eb0b43011df26bdd7b20e0bcf377505f72217e97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f7564666c6172652d4633383032303f7374796c653d666f722d7468652d6261646765266c6f676f3d436c6f7564666c617265266c6f676f436f6c6f723d7768697465" alt="" />
+            <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="" />
            </li>
            <li className="flex items-center mb-2"> 
-            <img src="https://camo.githubusercontent.com/6dc1867bcca570983bdf14c9108b161ed74b99b6bd70698386be964e6bbe6032/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d3030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" alt="" />
+            <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="" />
            </li>
       
           </ul>
