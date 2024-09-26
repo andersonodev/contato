@@ -58,13 +58,13 @@ const TAB_DATA = [
 <div className="grid grid-cols-3 gap-0 m-0 ">
   
     <div>
-        <img src="https://camo.githubusercontent.com/10c7a8fa2cf317cc7c4af6f13efac086a9f0ea010f0dfc746c94e5cde310b339/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" />
     </div>
     <div>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="" />
     </div>
     <div>
-        <img src="https://camo.githubusercontent.com/0cb8aa1c5653d4ac43512b0eff03878ec44d591a4f8b6fc87af43fc36b5aa83a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373" alt="" />
+        <img src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass" alt="" />
     </div>
     
 </div>
