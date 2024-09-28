@@ -6,7 +6,7 @@ const MenuOverlay = ({ links, onClick, className }) => {
   return (
     <ul
       className={`flex flex-col py-4 items-center ${className}`}
-      onClick={onClicdcck}gnhhmhrfvrf
+      onClick={onClick}gnhhmhrfvrf
       vrvr
     >
 vrvr
