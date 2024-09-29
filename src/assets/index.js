@@ -5,12 +5,8 @@ import discord from "./discord-icon.svg";
 import programador from "./programador.svg";
 import logo from "./logo.svg";
 
-import project1 from "./images/projects/1.png";
-import project2 from "./images/projects/2.png";
-import project3 from "./images/projects/3.png";
-import project4 from "./images/projects/4.png";
-import project5 from "./images/projects/5.png";
-import project6 from "./images/projects/6.png";
+import doctorcare from "./images/projects/doctorcare.png";
+
 import projectloading from "./images/projects/loading.png";
 
 import meta from "./company/meta.png";
@@ -21,6 +17,7 @@ import shopify from "./company/shopify.png";
 
 
 export {
+  doctorcare,
   programador,
   meta,
   starbucks,
