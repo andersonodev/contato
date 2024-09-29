@@ -1,4 +1,4 @@
-import { project1, project2, project3, project4, project5, project6, projectloading } from "../assets";
+import { doctorcare, projectloading } from "../assets";
 import React, { useState, useRef } from "react";
 import ProjectCard from "./ProjectCard";
 import ProjectTag from "./ProjectTag";
