@@ -1,4 +1,4 @@
-import { doctorcare, projectloading } from "../assets";
+import { doctorcare2, projectloading } from "../assets";
 import React, { useState, useRef } from "react";
 import ProjectCard from "./ProjectCard";
 import ProjectTag from "./ProjectTag";
@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "Landing Page Simples",
     description: "Doctor Care",
-    image: doctorcare,
+    image: doctorcare2,
     tag: ["Tudo", "Web"],
     gitUrl: "https://github.com/andersonodev/doctorcare",
     previewUrl: "https://andersonodev.github.io/doctorcare",
