@@ -5,7 +5,7 @@ import discord from "./discord-icon.svg";
 import programador from "./programador.svg";
 import logo from "./logo.svg";
 
-import doctorcare from "./images/projects/doctorcare.png";
+import doctorcare from "./images/projects/doctorcare2.png";
 
 import projectloading from "./images/projects/loading.png";
 
