@@ -33,7 +33,7 @@ const App = () => {
           {/* <Experience/> */}
 
           {/* Seção de projetos */}
-          {/* <ProjectsSection /> */}
+          <ProjectsSection />
         </div>
 
         {/* Seção de contato e canvas de estrelas/planeta */}
