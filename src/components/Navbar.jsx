@@ -8,20 +8,7 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 // ícone de fechar o menu em dispositivos menores
 
 const navLinks = [
-  {
-    title: "Sobre",
-    path: "#about",
-  },
 
-  // {
-  //   title: "Experiência",
-  //   path: "#experience",
-  // },
-
-  {
-    title: "Projetos",
-    path: "#projects",
-  },
   {
     title: "Contato",
     path: "#contact",

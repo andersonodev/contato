@@ -5,20 +5,6 @@ import NavLink from "./NavLink";
 
 const navLinks = [
   {
-    title: "Sobre",
-    path: "#about",
-  },
-
-  // {
-  //   title: "Experiência",
-  //   path: "#experience",
-  // },
-
-  {
-    title: "Projetos",
-    path: "#projects",
-  },
-  {
     title: "Contato",
     path: "#contact",
   },
