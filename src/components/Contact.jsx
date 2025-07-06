@@ -33,7 +33,7 @@ const Contact = () => {
 
     emailjs
       .send(
-        import.meta.env.VITE_PUBLIC_EMAILJS_SERVICE_IDL,
+        import.meta.env.VITE_PUBLIC_EMAILJS_SERVICE_ID,
         import.meta.env.VITE_PUBLIC_EMAILJS_TEMPLATE_ID,
         {
           from_name: form.name,
